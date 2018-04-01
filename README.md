@@ -1,3 +1,8 @@
+# Why this fork?
+
+At home I work mostly with Cygwin on Windows.  I'd like the same `jenv` here
+that I have at work on a Mac.
+
 # Master your Java Environnement with jenv
 Website : http://www.jenv.be
 
